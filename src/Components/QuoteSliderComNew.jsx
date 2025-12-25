@@ -46,7 +46,7 @@ const QuoteSliderComNew = () => {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 max-w-4xl mx-auto px-6  text-center">
+      <div className="relative z-10 max-w-4xl mx-auto px-6 py-10 text-center">
         {/* Opening Quote */}
         <div className="absolute left-0 top-0 text-8xl text-amber-900 font-serif leading-none mb-6">
           "
@@ -61,7 +61,7 @@ const QuoteSliderComNew = () => {
         </h2>
 
         {/* Closing Quote */}
-        <div className="absolute bottom-0 right-0 text-8xl text-amber-900 font-serif leading-none mb-12 flex justify-end px-12">
+        <div className="absolute bottom-28 -right-16 text-8xl text-amber-900 font-serif leading-none mb-12 flex justify-end px-12">
           "
         </div>
 
