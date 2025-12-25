@@ -14,6 +14,7 @@ import Footer from './Components/FooterCom'
 // import SocialStrip from './Components/SocialPreviewCom'
 import CategoryComp from './Components/CategoryComp'
 import TestimonialSection from './Components/TestimonialCom'
+import QuoteSliderComNew from './Components/QuoteSliderComNew'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,7 +23,8 @@ function App() {
     <>
       <Navbar/>
       <PromoSection/>
-      <QuoteSlider/>
+      {/* <QuoteSlider/> */}
+      <QuoteSliderComNew/>
       <PromoGrid/>
       <GlutenFreeFeature/>
       <PopularCoffeeGrid/>
