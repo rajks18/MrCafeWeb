@@ -11,7 +11,7 @@ import PopularCoffeeGrid from './Components/PopularCoffeeGridCom'
 import FoodiesGrid from './Components/FoodsGridComp'
 import NewsletterSignup from './Components/NewsletterSignupComp'
 import Footer from './Components/FooterCom'
-import SocialStrip from './Components/SocialPreviewCom'
+// import SocialStrip from './Components/SocialPreviewCom'
 import CategoryComp from './Components/CategoryComp'
 import TestimonialSection from './Components/TestimonialCom'
 
