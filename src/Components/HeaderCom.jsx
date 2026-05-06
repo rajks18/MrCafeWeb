@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <header className="bg-white shadow-md text-sm">
       {/* Top Bar */}
-      <div className="bg-gray-600 text-white flex justify-between items-center px-[10%] py-4 text-gray-700 w-">
+      <div className="bg-gray-600 text-white flex justify-between items-center px-[10%] py-2 text-gray-700 w-">
         <span>
           Sign up for our Loyalty Program today and receive 15% OFF your first
           order.
